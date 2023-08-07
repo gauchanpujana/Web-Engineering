@@ -1,0 +1,17 @@
+.color_rgb{
+    color:rgb(255,0,0);
+}
+.color_rgba{
+    color:rgba(255,0,0,0.5);
+}
+.select:hover{
+    background-color:chartreuse;
+    cursor: pointer;
+}
+
+a:link{
+    background-color:darksalmon;
+}
+.item{
+    border: 5px solid red;
+}

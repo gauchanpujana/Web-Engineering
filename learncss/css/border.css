@@ -1,0 +1,13 @@
+.paragraphing{color:darkslateblue; border-style: inset; border-color:chartreuse;}
+#paragraph{color:darkorange; background-color:bisque; border-style: dotted;}
+.given{background-color: aqua;border-style: double;}
+.first { background-color:rgb(177, 157, 126);  border:dashed;}
+#second{background-color: aquamarine; border-style: groove;}
+.third{ background-color:antiquewhite;  border-style: hidden; border-color: darksalmon;}
+#fourth{background-color: bisque; border-style: inherit; border-color: darkslategray;}
+.fifth{background-color: burlywood; border-style: initial;}
+#sixth{border-style: outset; border-color: chocolate;}
+.seventh{background-color:darkkhaki; border-style: ridge;}
+#eighth{background-image: url("https://tinyurl.com/374e96uw"); color:aquamarine;}
+
+

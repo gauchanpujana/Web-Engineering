@@ -1,0 +1,16 @@
+p::first-letter{
+    text-transform: uppercase;
+}
+p::first-line{
+    font-size: 30px;
+    color:brown;
+}
+h1::before{
+    content:url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/97/39/7f/caption.jpg?w=1200&h=-1&s=1&cx=1920&cy=1080&chk=v1_f31158e4bb953d28a308");
+}
+h1::after{
+    content: "This is after content";
+}
+::selection{
+    color: blue;
+}

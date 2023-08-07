@@ -1,0 +1,17 @@
+#content:active{
+    color: brown!important; 
+    cursor: pointer;
+}
+
+.first:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+
+a[target]{
+    background-color: blueviolet;
+}
+
+a[target="_blank"]{
+    color:cornflowerblue;
+}

@@ -1,0 +1,41 @@
+.navbar li{
+    display: inline;
+}
+
+a {
+    display: block;
+    margin-top: 20px;
+}
+
+#first{
+    background-color: chartreuse;
+    height: 150px;
+    border-style:dotted;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    line-height: 18px;
+    text-indent: 100px;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
+#second{
+    background-color: cyan;
+    height: 150px;
+    margin: 50px;
+
+}
+#third{
+    background-color: darkorange;
+    height: 150px;
+    padding: 50px;
+}
+a{
+    color: darkturquoise;
+}
+
+.demo{
+    /* display:none; */
+   visibility: hidden;
+}
+

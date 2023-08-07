@@ -1,0 +1,17 @@
+p{
+    color:blueviolet;
+}
+#grade{ 
+    color: red;
+}
+.name{
+    color: blue;
+}
+*{
+    color: green; 
+    background-color: bisque;
+    font-style:normal;
+}
+h1, #hehe, .haha{
+    color:brown;
+}
